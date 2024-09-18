@@ -35,11 +35,21 @@ Tugas 4
 
 ![Screenshot from 2024-09-18 22-35-38](https://github.com/user-attachments/assets/2263c512-2539-4b78-b7b0-66bf127053dc)
 
-6.![Screenshot from 2024-09-18 22-38-48](https://github.com/user-attachments/assets/c073e24e-90aa-4689-a7bf-8aa2dd5ef033)
+6.Urutkan kalimat berikut : Jakarta Bandung Surabaya Padang Palembang Lampung Dengan menggunakan notasi here document (<@@@ …@@@)
 
-7.![Screenshot from 2024-09-18 22-44-59](https://github.com/user-attachments/assets/8cbb051e-c30a-47f2-be75-03f6eb5a4d02)
+![Screenshot from 2024-09-18 22-38-48](https://github.com/user-attachments/assets/c073e24e-90aa-4689-a7bf-8aa2dd5ef033)
+
+7.Hitung jumlah baris, kata dan karakter dari file baru.urut dengan menggunakan filter dan tambahkan data tersebut ke file baru.
+
+![Screenshot from 2024-09-18 22-44-59](https://github.com/user-attachments/assets/8cbb051e-c30a-47f2-be75-03f6eb5a4d02)
 
 
-10.![Screenshot from 2024-09-18 23-02-50](https://github.com/user-attachments/assets/3a45fd75-09a3-46b3-afc6-545a70049433)
+8. Gunakan perintah di bawah ini dan perhatikan hasilnya. $ cat /etc/passwd | sort | pr –n | grep tty03 $ find /etc –print | head $ head /etc/passwd | tail –5 | sort
 
-11.![Screenshot from 2024-09-18 22-59-50](https://github.com/user-attachments/assets/3ebd46cf-4706-4687-ad60-a2fc178fa453)
+![Screenshot from 2024-09-18 22-59-50](https://github.com/user-attachments/assets/3ebd46cf-4706-4687-ad60-a2fc178fa453)
+
+
+9. Gunakan perintah $ who | cat | cat | sort | pr | head | cat | tail dan perhatikan hasilnya.
+
+![Screenshot from 2024-09-18 23-02-50](https://github.com/user-attachments/assets/3a45fd75-09a3-46b3-afc6-545a70049433)
+
