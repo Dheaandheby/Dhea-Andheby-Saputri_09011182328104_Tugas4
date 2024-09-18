@@ -40,8 +40,6 @@ Tugas 4
 7.![Screenshot from 2024-09-18 22-44-59](https://github.com/user-attachments/assets/8cbb051e-c30a-47f2-be75-03f6eb5a4d02)
 
 
-9.![Screenshot from 2024-09-18 22-57-29](https://github.com/user-attachments/assets/ed09f776-844c-4b7f-beb9-2a72a2a70fc1)
-
 10.![Screenshot from 2024-09-18 23-02-50](https://github.com/user-attachments/assets/3a45fd75-09a3-46b3-afc6-545a70049433)
 
 11.![Screenshot from 2024-09-18 22-59-50](https://github.com/user-attachments/assets/3ebd46cf-4706-4687-ad60-a2fc178fa453)
