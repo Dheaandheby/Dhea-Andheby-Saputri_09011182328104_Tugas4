@@ -31,9 +31,9 @@ Tugas 4
 
 5.![Screenshot from 2024-09-18 22-35-06](https://github.com/user-attachments/assets/786fbd94-ee7e-48dd-9a99-9ae7efb7359a)
 
-6.![Screenshot from 2024-09-18 22-38-48](https://github.com/user-attachments/assets/c073e24e-90aa-4689-a7bf-8aa2dd5ef033)
+![Screenshot from 2024-09-18 22-35-38](https://github.com/user-attachments/assets/2263c512-2539-4b78-b7b0-66bf127053dc)
 
-7.![Screenshot from 2024-09-18 22-35-38](https://github.com/user-attachments/assets/2263c512-2539-4b78-b7b0-66bf127053dc)
+6.![Screenshot from 2024-09-18 22-38-48](https://github.com/user-attachments/assets/c073e24e-90aa-4689-a7bf-8aa2dd5ef033)
 
 8.![Screenshot from 2024-09-18 22-44-59](https://github.com/user-attachments/assets/8cbb051e-c30a-47f2-be75-03f6eb5a4d02)
 
