@@ -18,6 +18,10 @@ Kelas   : SK3B
 
 Tugas 4
 
+1. Lihat daftar secara lengkap pada direktori aktif, belokkan tampilan standard output ke file baru.
+
+
+
 2.Lihat daftar secara lengkap pada direktori /etc/paswd, belokkan tampilan standard output ke file baru tanpa menghapus file baru sebelumnya.
 
 ![Screenshot from 2024-09-18 22-24-12](https://github.com/user-attachments/assets/b49f049f-7dfd-4367-8399-794fb533826f)
